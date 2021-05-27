@@ -1,4 +1,4 @@
-# 🛫 [Fly-Friends](https://fly-friends.herokuapp.com/) 🛬
+# 🛫 [Fly-Friends](https://fly-friends.herokuapp.com/) <---(link)🛬
 
 ## Описание
 
